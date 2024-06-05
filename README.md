@@ -3,7 +3,8 @@
 ## 📒 Descrição
 Conversa sobre o Mercado de Trabalho
 ## 🤖 Tecnologias Utilizadas
-[ChatGPT]()
+- IA generativa **[ChatGPT](https://chat.openai.com)** foi usada para o roteiro
+- IA generativa
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
