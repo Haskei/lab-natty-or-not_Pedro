@@ -7,7 +7,7 @@ Conversa sobre o Mercado de Trabalho
 - IA Generativa **[PlayAI](https://play.ai/business)** foi usada para a voz;
 - Software **[Descript](https://www.descript.com)** para edição.
 ## 🧐 Processo de Criação
-**[ChatGPT](https://chat.openai.com)** foi usado para o **[script](/script.txt)**, com PlayAI recebendo-o e com os agentes de coz sendo usados para "atuar",
+**[ChatGPT](https://chat.openai.com)** foi usado para o **[script](/script.txt)**, com **[MurfAI](https://murf.ai/)** recebendo-o e criando as vozes,
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
