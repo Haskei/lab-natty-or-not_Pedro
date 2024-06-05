@@ -1,9 +1,9 @@
 # Conversa sobre o mercado de Trabalho
 
 ## 📒 Descrição
-
+Conversa sobre o Mercado de Trabalho
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT]()
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
