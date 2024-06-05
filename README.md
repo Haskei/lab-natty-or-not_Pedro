@@ -4,8 +4,8 @@
 Conversa sobre o Mercado de Trabalho
 ## 🤖 Tecnologias Utilizadas
 - IA generativa **[ChatGPT](https://chat.openai.com)** foi usada para o roteiro
-- IA generativa
-
+- IA Generativa **[ElevenLabs](https://www.elevenlabs.io)** foi usada para a voz;
+- Software **[Descript](https://www.descript.com)** para edição.
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
